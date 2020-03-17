@@ -1,10 +1,10 @@
 # README
 
+What is it.
 
+Todo
 
-Splurty
-
-Full-stack application designed to allow user to add a quote and an author.
+This single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
 Try it yourself!
 

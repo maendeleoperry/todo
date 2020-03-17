@@ -3,6 +3,7 @@
 
 
 Splurty
+
 Full-stack application designed to allow user to add a quote and an author.
 
 Try it yourself!
